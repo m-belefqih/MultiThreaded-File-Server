@@ -2,11 +2,10 @@
 
 > A Java implementation of a multi-threaded TCP file server that allows multiple clients to connect simultaneously and download files using a simple set of commands presented in a terminal interface.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Version-1.0.0-blue">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/Version-1.0.0-blue">
 <img src="https://img.shields.io/badge/Status-Stable-success">
 <a href="https://github.com/ellerbrock/open-source-badges/">
-<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
+ <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Love">
 </a>
 
 ## Overview
