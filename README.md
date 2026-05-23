@@ -43,7 +43,7 @@ MultiThreaded-File-Server/
 ├── shared/                    # Files available for download
 │   ├── notes.txt
 │   ├── hello.txt
-│   ├── cours.pdf
+│   ├── course.pdf
 │   └── binary.dat
 ├── downloads/                 # Files downloaded by the client
 └── README.md
@@ -122,13 +122,13 @@ Enter your commands:
 --- Files on Server ---
 notes.txt
 hello.txt
-cours.pdf
+course.pdf
 binary.dat
 -----------------------
  
-> GET cours.pdf
-Downloading cours.pdf (102400 bytes)...
-Download complete: downloads/cours.pdf
+> GET course.pdf
+Downloading course.pdf (102400 bytes)...
+Download complete: downloads/course.pdf
  
 > QUIT
 Closing connection.
